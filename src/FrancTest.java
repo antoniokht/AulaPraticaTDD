@@ -6,6 +6,8 @@ import org.junit.Test;
 
 public class FrancTest {
 	
+	//Testes ultrapassados, cheque MoneyTest
+	
 	@Test
 	public void testFrancMultiplication() {
 		   Franc five = new Franc(5);

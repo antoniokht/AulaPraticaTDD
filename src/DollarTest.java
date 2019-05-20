@@ -6,6 +6,8 @@ import org.junit.Test;
 
 public class DollarTest {
 
+	//Testes ultrapassados, cheque MoneyTest
+	
 	@Test
 	public void testMultiplication() {
 		   Dollar five = new Dollar(5);
